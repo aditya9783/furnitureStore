@@ -1,0 +1,19 @@
+{
+  "name": "furniturestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "furniture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node furniture.js"
+  },
+  "keywords": [
+    "node",
+    "build"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
